@@ -4,7 +4,7 @@ title: Tobias Jakobi
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Tobias Jakobi
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,6 +57,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3102722/tobias-jakobi/
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/tobias_jakobi
 - icon: github
   icon_pack: fab
   link: https://github.com/tjakobi
