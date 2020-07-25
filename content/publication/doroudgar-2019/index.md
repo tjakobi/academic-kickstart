@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Cell Type-Specific Gene Expression Using Ribosome Profiling In Vivo During Cardiac Hemodynamic Stress"
 date: 2019-01-01
-publishDate: 2020-07-24T16:41:43.927182Z
+publishDate: 2020-07-25T22:13:13.719854Z
 authors: ["Shirin Doroudgar", "Christoph Hofmann", "Etienne Boileau", "Brandon Malone", "Eva Riechert", "Anieszka Anna Gorska", "Tobias Jakobi", "Clara Sandmann", "Lonny Juergensen", "Vivien Kmietczyk", "Ellen Malovrh", "Jana Burghaus", "Mandy Rettel", "Frank Stein", "Fereshteh Sadat Younesi", "Ulrike Anne Friedrich", "Victoria Mauz", "Johannes Backs", "Günter Kramer", "Hugo A Katus", "Christoph Dieterich", "Mirko Völkers"]
 publication_types: ["2"]
 abstract: ""
